@@ -1,0 +1,1 @@
+"""KASPARRO assessment application."""
